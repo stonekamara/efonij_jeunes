@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vert FONIJ (#106067) — fond du splash screen -->
+    <color name="fonij_launch">#106067</color>
+</resources>
